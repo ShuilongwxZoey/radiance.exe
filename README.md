@@ -28,5 +28,3 @@ The Harmful Edition of this malware will:
 
 # 💬Others
 You may get a BSoD during the run of the harmful edition, I don't know how to fix this problem yet :(
-
-I will upload the source code of radiance.exe if i finished this project.
