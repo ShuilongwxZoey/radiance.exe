@@ -8,7 +8,7 @@ I haven't finished this malware project yet (it only has 11 bytebeats for now), 
 # ⚠️Warning!
 This GDI malware is dedicated for enterainment and educational purposes only. By running it, You agree that you've acknowledged consequences that will follow.
 
-If you used my malware's source code, then your malware must be open source!
+If you remade my malware or used my malware's source code, then your malware must be open source!
 
 If you have photosensitive epilepsy, Please don't download or execute this malware!
 
