@@ -2,6 +2,7 @@
 [Some texts are translated by Microsoft Bing Translator.]
 
 This is a C++ GDI malware made by me (and this is my first time trying to no skid from other malwares).
+
 I haven't finished this malware project yet (it only has 11 bytebeats for now), So it may contains some bugs. I will add more gdi functions in the future.
 
 # ⚠️Warning!
@@ -18,8 +19,11 @@ Windows Vista or higher (Recommend to run this malware in Windows 7)
 
 # 💀Destructive Payloads?
 The Harmful Edition of this malware will:
+
 1. Overwrite the MBR(Master Boot Record).
+
 2. Delete all the data stored on all physical disks.
+
 3. Disable some system feautres (such as Task Manager, Registry Editor and Group Policy Editor).
 
 # 💬Others
