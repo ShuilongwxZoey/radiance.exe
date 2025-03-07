@@ -14,7 +14,7 @@ If you have photosensitive epilepsy, Please don't download or execute this malwa
 I am NOT responsible for any damages by using this malware!
 
 # 🖥️System Requiresments?
-Windows Vista or higher.
+Windows Vista or higher (Recommend to run this malware in Windows 7)
 
 # 💀Destructive Payloads?
 The Harmful Edition of this malware will:
@@ -23,4 +23,6 @@ The Harmful Edition of this malware will:
 3. Disable some system feautres (such as Task Manager, Registry Editor and Group Policy Editor).
 
 # 💬Others
+You may get a BSoD during the run of the harmful edition, I don't know how to fix this problem yet :(
+
 I will upload the source code of radiance.exe if i finished this project.
