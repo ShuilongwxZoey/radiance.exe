@@ -10,7 +10,7 @@ I think i have finished this malware project now, But it may contains some bugs.
 # ⚠️Warning!
 This GDI malware is dedicated for enterainment and educational purposes only. By running it, You agree that you've acknowledged consequences that will follow.
 
-Remade my malware or use my malware's source code is allowed, BUT YOUR MALWARE MUST BE OPEN SOURCE!
+Remake my malware or use my malware's source code is allowed, BUT YOUR MALWARE MUST BE OPEN SOURCE!
 
 If you have photosensitive epilepsy, Please don't download or execute this malware!
 
