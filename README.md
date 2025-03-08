@@ -3,12 +3,14 @@
 
 This is a C++ GDI malware made by me (and this is my first time trying to no skid from other malwares).
 
-I haven't finished this malware project yet (it only has 11 bytebeats for now), So it may contains some bugs. I will add more gdi functions in the future.
+I think i have finished this malware project now, But it may contains some bugs.
+
+(I will add more gdi functions in the future.)
 
 # ⚠️Warning!
 This GDI malware is dedicated for enterainment and educational purposes only. By running it, You agree that you've acknowledged consequences that will follow.
 
-If you remade my malware or used my malware's source code, then your malware must be open source!
+Remade my malware or use my malware's source code is allowed, BUT YOUR MALWARE MUST BE OPEN SOURCE!
 
 If you have photosensitive epilepsy, Please don't download or execute this malware!
 
